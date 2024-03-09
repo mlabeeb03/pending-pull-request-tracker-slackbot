@@ -1,0 +1,1 @@
+# Slack bot to find pending PRs easily in a channel
